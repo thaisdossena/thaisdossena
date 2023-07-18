@@ -1,5 +1,5 @@
-<div align="center">  
-  <h2>Olá! Me chamo Thaís Dossena!👋</h2>
+<div align="center">    
+  <h2>Hello world! My name is Thaís Dossena!👋</h2>
 </div>
 
 <div align="center">  
