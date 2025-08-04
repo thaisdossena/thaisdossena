@@ -9,7 +9,7 @@ Minha transição de carreira não foi um salto no escuro — foi uma construç�
 Estou em busca da minha primeira oportunidade na área de desenvolvimento. Quero crescer colaborando com equipes que valorizem o aprendizado contínuo, o código limpo e a criatividade aplicada. Estou aberta a estágios, vagas júnior ou projetos que me permitam aprender com tecnologia de verdade, na prática.
 
 <div align="left">   
-  <a  href="www.linkedin.com/in/thais-dossena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a  href="https://www.linkedin.com/in/tha%C3%ADs-dossena-9b462a1b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/thaisdossena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:acad.thaisdossena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
 </div>
