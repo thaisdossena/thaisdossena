@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Thaís Dossena
 
-**`Desenvolvimento Web | UX Designer`**
+**`Desenvolvimento Web | UX Designer | Java`**
 
-💻 Em transição para a área de Desenvolvimento Front-End | Aberta à primeira oportunidade na área de tecnologia
+💻 Em transição para a área de tecnologia | Aberta à primeira oportunidade na área
 
 Sou Thaís Dossena, formada em Análise de Sistemas, atualmente estudante de Ciência da Computação e apaixonada por criar experiências que conectem pessoas através da tecnologia. Após anos atuando com atendimento ao público e liderança de equipes, descobri que meu maior talento sempre foi me comunicar com empatia, entender necessidades reais e encontrar soluções práticas. Hoje, levo essa mesma sensibilidade para o Front-End e para o universo da experiência do usuário. Quero usar minha bagagem com pessoas para desenvolver soluções mais humanas, funcionais e acolhedoras.
 Estou em busca da minha primeira oportunidade na área de desenvolvimento. Quero crescer colaborando com equipes que valorizem o aprendizado contínuo, o código limpo e a criatividade aplicada. Estou aberta a estágios, vagas júnior ou projetos que me permitam aprender com tecnologia de verdade, na prática.
