@@ -97,12 +97,3 @@ Estou em busca da minha primeira oportunidade na área de desenvolvimento. Quero
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"
 />
-
-<br/>
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisdossena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-
-##
-
